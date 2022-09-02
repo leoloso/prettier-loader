@@ -41,7 +41,9 @@ function getIgnoreManager(filePath) {
   if (ignoreManager) {
     return ignoreManager;
   }
-  ignoreManager = ignore();
+  ignoreManager = ignore({
+    allowRelativePaths: true
+  });
   const ignorePath = findIgnorePathInParentFolders(path.join(filePath, '..'));
   if (ignorePath) {
     const ignoredFiles = fs.readFileSync(ignorePath, 'utf8').toString();
