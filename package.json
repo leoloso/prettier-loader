@@ -1,7 +1,7 @@
 {
   "name": "leoloso-prettier-loader",
   "version": "3.4.0",
-  "description": "webpack prettier loader",
+  "description": "webpack prettier loader + ignore(allowRelativePaths => true)",
   "main": "prettier-loader.js",
   "engines": {
     "node": ">=8.3.0"
