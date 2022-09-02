@@ -1,6 +1,6 @@
 {
-  "name": "prettier-loader",
-  "version": "3.3.0",
+  "name": "leoloso-prettier-loader",
+  "version": "3.4.0",
   "description": "webpack prettier loader",
   "main": "prettier-loader.js",
   "engines": {
