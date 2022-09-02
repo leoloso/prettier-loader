@@ -204,7 +204,7 @@ Install and use it only in development environment if you minimize code for prod
 
 ## Known issue
 
-As a loader, that is modifying source code, it has [known issue](https://github.com/iamolegga/prettier-loader/issues/1) with double compilation in watch mode. With current `webpack` API this problem can not be solved (the same problem exists in [other](https://github.com/rchaser53/awesome-prettier-loader/issues/3) [similar](https://github.com/webpack-contrib/eslint-loader/issues/303) [projects](https://github.com/hawkins/prettier-webpack-plugin/issues/2)). [Webpack maintainers are not going to help with this](https://github.com/webpack/webpack/issues/9763).
+As a loader, that is modifying source code, it has [known issue](https://github.com/leoloso/prettier-loader/issues/1) with double compilation in watch mode. With current `webpack` API this problem can not be solved (the same problem exists in [other](https://github.com/rchaser53/awesome-prettier-loader/issues/3) [similar](https://github.com/webpack-contrib/eslint-loader/issues/303) [projects](https://github.com/hawkins/prettier-webpack-plugin/issues/2)). [Webpack maintainers are not going to help with this](https://github.com/webpack/webpack/issues/9763).
 
 ## Contributing
 
@@ -238,20 +238,20 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[travis-badge]: https://img.shields.io/travis/iamolegga/prettier-loader.svg?style=flat-square
-[travis]: https://travis-ci.org/iamolegga/prettier-loader
-[coveralls-badge]: https://img.shields.io/coveralls/github/iamolegga/prettier-loader.svg?style=flat-square
-[coveralls]: https://coveralls.io/github/iamolegga/prettier-loader?branch=master
+[travis-badge]: https://img.shields.io/travis/leoloso/prettier-loader.svg?style=flat-square
+[travis]: https://travis-ci.org/leoloso/prettier-loader
+[coveralls-badge]: https://img.shields.io/coveralls/github/leoloso/prettier-loader.svg?style=flat-square
+[coveralls]: https://coveralls.io/github/leoloso/prettier-loader?branch=master
 [snyk-badge]: https://img.shields.io/snyk/vulnerabilities/npm/prettier-loader
-[snyk]: https://snyk.io/test/github/iamolegga/prettier-loader
+[snyk]: https://snyk.io/test/github/leoloso/prettier-loader
 [version-badge]: https://img.shields.io/npm/v/prettier-loader.svg?style=flat-square
 [package]: https://www.npmjs.com/package/prettier-loader
 [downloads-badge]: https://img.shields.io/npm/dm/prettier-loader.svg?style=flat-square
 [npmcharts]: https://npmcharts.com/compare/prettier-loader
 [node-version]: https://img.shields.io/node/v/prettier-loader.svg?style=flat-square
 [license-badge]: https://img.shields.io/npm/l/prettier-loader.svg?style=flat-square
-[license]: https://github.com/iamolegga/prettier-loader/blob/master/LICENSE
+[license]: https://github.com/leoloso/prettier-loader/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/iamolegga/prettier-loader/blob/master/CODE_OF_CONDUCT.md
+[coc]: https://github.com/leoloso/prettier-loader/blob/master/CODE_OF_CONDUCT.md

@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamolegga/prettier-loader.git"
+    "url": "git+https://github.com/leoloso/prettier-loader.git"
   },
   "keywords": [
     "webpack",
@@ -22,9 +22,9 @@
   "author": "Oleg Repin <iamolegga@gmail.com> (http://github.com/iamolegga)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamolegga/prettier-loader/issues"
+    "url": "https://github.com/leoloso/prettier-loader/issues"
   },
-  "homepage": "https://github.com/iamolegga/prettier-loader#readme",
+  "homepage": "https://github.com/leoloso/prettier-loader#readme",
   "dependencies": {
     "ignore": "^5.2.0",
     "loader-utils": "^2.0.0"
